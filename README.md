@@ -29,4 +29,4 @@
 - Почта: team.aiollm@gmail.com
 
 ## Лицензия
-MIT © 2025 Emil
+MIT © 2026 Emil
